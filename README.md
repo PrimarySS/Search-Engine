@@ -5,4 +5,4 @@
 
 为了传给web功能用途，所以把c++编写的逻辑做成包的形似给Java调用，Java通过调用jni获得需要功能
 
-具体操作过程参考本人的CSDN博客https://blog.csdn.net/qq_38931949/article/details/80087899，关于Java通过jni调用c++的流程
+具体操作过程参考本人的CSDN博客，关于Java通过jni调用c++的流程，https://blog.csdn.net/qq_38931949/article/details/80087899
